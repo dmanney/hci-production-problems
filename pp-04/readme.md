@@ -22,7 +22,7 @@ want to do multiple sketches, each highlighting a different feature of the same 
 Small commits to your Production Problems repository that include:
 
 1. photographs of sketches of your new design, from your sketchbook
-  * ![Sketch}(Link to photo here)
+  * ![Sketch](https://github.com/dmanney/hci-production-problems/blob/master/pp-04/images/sketches.jpg)
 2. an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
